@@ -1,0 +1,1 @@
+# Network_and_device-adaptive_webapp_codesquard
